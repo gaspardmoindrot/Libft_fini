@@ -1,4 +1,4 @@
-# libft_fini
+# libft
 
 ### Ta propre bibliothèque à toi tout seul
 
